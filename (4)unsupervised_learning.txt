@@ -1,0 +1,13 @@
+UNSUPERVISED LEARNING = The machine learning algorithm learns from unlabelled data.
+
+it can group the data from one picture, if the picture contains 2 different items.
+. it automatically find the pattern between those images
+we are not giving any supervision here 
+
+Types of UNSUPERVISED are clustering and association
+
+1.clustering is an unsupervised task which involves grouping the similar data points
+
+
+2.association is an unsupervised task that is used to find important relationship between data points.
+

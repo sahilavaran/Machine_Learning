@@ -1,0 +1,23 @@
+# Supervised Learning = in supervised learning, the machine learning algorithm learns from labelled data
+for example giving images and trainig thats how the supervised works
+
+Types of Supervised learning are Classification and Regression
+
+1.Classification = classification is about predicting a class of discrete values (examples male or female , true or false)
+
+another example in real life we give dog picture and the cat one and label it thats how classification works. There is no middle value 
+(here we predict the class or type )
+
+Classification algorithms
+1.Decision Tree Classification
+2.Random Forest Classification
+3.K-nearest Neighbor
+
+2.Regression = is about predicting a quntity or continues values (example salary, age, price)
+
+another example in real life we need to check the temperature (here we are trying to find a number )
+
+Regression algorithms
+1. logistic Regression
+2.Polynomial Regression
+3.Support Vector machinesk
