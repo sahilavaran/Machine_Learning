@@ -7,7 +7,16 @@ we are not giving any supervision here
 Types of UNSUPERVISED are clustering and association
 
 1.clustering is an unsupervised task which involves grouping the similar data points
+for example in real life( a network company checks that who makes more calls have less usage of internet and those who use more internet have less call usage so with these they can give offers on vise verse)
+here we above we cluster the data based on the user data
 
 
-2.association is an unsupervised task that is used to find important relationship between data points.
+2.Association is an unsupervised task that is used to find important relationship between data points.
 
+for example in real life example we can consider supermarket there are severl customers who are buying same things like milk, bread, fruits 
+
+there are other customers who buying similar bread, milk, butter
+
+the association here is when people buy milk they buy bread too this is the association here
+
+## what are the  important unsupervised learning algorithm
