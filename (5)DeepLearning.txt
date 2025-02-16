@@ -1,0 +1,23 @@
+Deep learning
+Is a subfield of machine learning that uses artificail neural networks to learn from the data.
+
+THERE ARE 4 layers in Deep LEARNING
+
+INPUT layers = THIS GET THE INITIAL LAYER LIKE RAW DATA
+HIDDEN layers = Perform computations and transformations on the input data.
+HIDDEN LAYER 2 = produces the final predictions or results
+OUTPUT LAYERS
+ 
+    machine learning vs deep learning
+
+ in machine learning for example we need to tell them when we take a car it has 4 wheels and all deep learning its powerfull we dont need to tell anything it can detect itself
+
+ HOW DEEP LEARNING GETS MORE POPULAR
+
+ (there is a famous comany called DeepMind its is basaed in US. )   
+
+important application used in Deep learning
+HEALTH CARE
+AUTONOMUS CAR (LLIKE TESLA)
+COMPUTER VISION (LIKE FACE RECOGINITION SYSYTEM)
+NATURAL LANGAUAGE PROCESSING (CHATBOT)
